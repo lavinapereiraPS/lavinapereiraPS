@@ -1,7 +1,10 @@
 body {
     background-color: rgb(224, 246, 255);
     color: black;
-    padding: 30px;
+    padding: 30px;     
+}
+
+h1Google {
     font-family: 'Tangerine', serif;
-    font-size: 60px;    
+    font-size: 60px; 
 }
