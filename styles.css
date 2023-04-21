@@ -1,5 +1,7 @@
 body {
     background-color: rgb(224, 246, 255);
     color: black;
-    padding: 30px;    
+    padding: 30px;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;    
 }
