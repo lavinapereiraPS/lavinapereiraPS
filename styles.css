@@ -4,6 +4,10 @@ body {
     padding: 30px;     
 }
 
+#name {
+    color: red;
+}
+
 h1Google {
     font-family: 'Tangerine', serif;
     font-size: 60px; 
